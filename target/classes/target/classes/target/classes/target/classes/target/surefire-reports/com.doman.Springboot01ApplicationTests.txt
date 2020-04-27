@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.doman.Springboot01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.078 s <<< FAILURE! - in com.doman.Springboot01ApplicationTests
+initializationError(com.doman.Springboot01ApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: The class com.doman.Springboot01ApplicationTests is not public.
+
+initializationError(com.doman.Springboot01ApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Test class should have exactly one public constructor
+

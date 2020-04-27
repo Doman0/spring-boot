@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.doman.pojo.Resource",
+      "name": "com.doman.opensource",
+      "type": "com.doman.pojo.Resource"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.doman.pojo.Resource",
+      "name": "com.doman.opensource.language",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.doman.pojo.Resource",
+      "name": "com.doman.opensource.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.doman.pojo.Resource",
+      "name": "com.doman.opensource.website",
+      "type": "java.lang.String"
+    }
+  ]
+}
