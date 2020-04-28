@@ -28,6 +28,8 @@ public class User {
     @JsonFormat(pattern = "yyyy-MM-dd hh:mm:ss a",locale = "zh",timezone = "GMT+8")
     private  Date birthday;
 
+    private  int  age;
+
     //为null(不包括“”)时，忽略该属性
     // @JsonInclude(JsonInclude.Include.NON_NULL)
     //为empty(包括“”)时，忽略该属性

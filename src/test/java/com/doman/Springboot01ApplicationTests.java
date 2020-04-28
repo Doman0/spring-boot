@@ -14,7 +14,7 @@ public  class Springboot01ApplicationTests {
 
     @Test
     public void test() {
-        User u1 = new User("zs","11111111",new Date(),"","0" );
+        User u1 = new User("zs","11111111",new Date(),12,"","0" );
         System.out.println(u1);
 
         User u = new User();
